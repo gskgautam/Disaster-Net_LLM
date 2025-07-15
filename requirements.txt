@@ -1,0 +1,13 @@
+python>=3.10
+transformers
+torch
+torchvision
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+rasterio
+xarray
+bert_score
+huggingface_hub 
