@@ -65,3 +65,9 @@ This project uses the following datasets. Please download each dataset from the 
 ## Citation
 
 If you use this project, please cite the original datasets and models as referenced in the documentation. 
+
+**Can We Predict the Unpredictable? Leveraging DisasterNet-LLM for Multimodal Disaster Classification**  
+*Kulahara, Manaswi, Gautam Siddharth Kashyap, Nipun Joshi, and Arpita Soni*  
+arXiv preprint: [arXiv:2506.23462](https://arxiv.org/abs/2506.23462) (2025)  
+✅ Accepted at the **2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2025)**,  
+Brisbane, Australia (3–8 August 2025)
